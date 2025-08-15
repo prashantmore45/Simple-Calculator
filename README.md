@@ -19,3 +19,8 @@ It supports addition, subtraction, multiplication, and division.
 - HTML5
 - CSS3
 - JavaScript
+
+# 🚀 Daily Progress Log
+
+Committed to learning, building, and improving every single day.  
+Every small step counts towards something big. 🌱
