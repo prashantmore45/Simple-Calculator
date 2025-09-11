@@ -1,13 +1,9 @@
-// Select the input field
 const input = document.getElementById("content");
 
-// Select all buttons with class "box"
 const buttons = document.querySelectorAll(".box");
 
-// Variable to keep track of parentheses toggle
 let isOpenParenthesis = true;
 
-// Loop through each button and add click event
 buttons.forEach(button => {
     button.addEventListener("click", () => {
         const id = button.id;
@@ -22,7 +18,7 @@ buttons.forEach(button => {
                 break;
             case "equal":
                 try {
-                    input.value = eval(input.value); // NOTE: eval is not safe for untrusted input
+                    input.value = eval(input.value); 
                 } catch {
                     input.value = "Error";
                 }
