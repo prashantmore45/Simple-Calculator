@@ -6,9 +6,10 @@ A basic calculator web app built using HTML, CSS, and JavaScript.
 It supports addition, subtraction, multiplication, and division.
 
 ## Features
-- User-friendly interface
-- Basic arithmetic operations
-- Responsive design
+- Supports basic arithmetic operations (+, −, ×, ÷).  
+- Simple, user-friendly UI.  
+- Responsive design for different screen sizes.  
+- Real-time calculation without page reload.  
 
 ## How to Run
 1. Download or clone this repository.
